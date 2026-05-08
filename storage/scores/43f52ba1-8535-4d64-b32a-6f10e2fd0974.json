@@ -1,0 +1,102 @@
+{
+  "debate_id": "43f52ba1-8535-4d64-b32a-6f10e2fd0974",
+  "timestamp": "2026-05-08T15:09:02.805413",
+  "motion": "This house would grant asylum seekers the right to work immediately upon arrival.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speech consistently supports open, humane, and expanded immigration policies throughout.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes compassion, inclusivity, and acknowledgment of others throughout the debate turn."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by challenging the opponent's approach, advocating for addressing root causes of migration, criticizing merit-based systems as elitist, and promoting an inclusive approach that prioritizes diversity.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently shows empathy towards marginalized communities and refugees, acknowledges others (opponent and affected parties), uses inclusive language ('all citizens', 'everyone'), and aims to bridge the gap between security and compassion."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker advocates for addressing systemic inequalities and alternative solutions, they also criticize the opponent's focus on border security as treating symptoms rather than causes. This suggests a slight inconsistency between supporting open immigration policies and questioning the importance of border security.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently displays empathy and acknowledges the opponent's argument while advocating for a more comprehensive approach that addresses systemic issues and prioritizes humanitarian concerns."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies, emphasizing compassion and addressing the root causes of migration.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes compassion, inclusivity, and empathy throughout the response."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker acknowledges the value of diversity and economic growth but prioritizes citizens' interests over non-citizens, which contradicts a strictly controlled and restrictive immigration stance.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker acknowledges opponents and fellow debaters, but the rest of the speech prioritizes citizens' interests over non-citizens, which contradicts the trait of agreeableness."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warmth, cooperation, and empathy by acknowledging the concerns of their opponent, emphasizing fairness in border security measures, and proposing a balanced approach that takes into account both security and compassion."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows empathy towards refugees and acknowledges others, they also argue for border security which could be perceived as prioritizing national interests over individual concerns. This contradicts the consistent display of high agreeableness."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes the importance of inclusivity, compassion, and cooperation throughout their response."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -1,
+    "personality_drift": 2
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2,
+    "reasoning": "Both agents present well-structured and evidence-based arguments, with clear engagement on the opponent's points. The debate demonstrates a high level of coherence and civility throughout."
+  },
+  "summary": {
+    "avg_stance_a": 2.75,
+    "avg_stance_b": 1.25,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.25,
+    "stance_drift_a": 0,
+    "stance_drift_b": -1,
+    "personality_drift_a": 0,
+    "personality_drift_b": 2,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2
+  }
+}

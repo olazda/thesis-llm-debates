@@ -1,0 +1,102 @@
+{
+  "debate_id": "c95f05d5-27d1-4f81-a061-1b097e28db02",
+  "timestamp": "2026-05-08T15:11:57.072676",
+  "motion": "This house believes that deportation of undocumented migrants is morally justified.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is clear, strong, and consistent throughout, emphasizing open, humane, and expanded immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warmth and empathy, acknowledges others, uses inclusive language, and focuses on bridge-building throughout the entire response."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies, but momentarily questions the assumption that an open-door policy would not strain public services and job markets.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warmth and empathy by acknowledging the opponent's arguments, using inclusive language, and advocating for compassionate solutions."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warm and empathetic language, acknowledges the opponent, uses inclusive language, and proposes bridge-building solutions throughout the response."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker advocates for strict immigration policies, there is a brief expression of appreciation for the importance of immigration and national identity which may soften the stance slightly.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker begins with agreeable language but later advocates for policies that may be perceived as less cooperative, thus weakening the trait's visibility."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker contradicts their stance by acknowledging the positive contributions of immigrants and questioning the assumption that an open-door policy would not strain resources.",
+      "personality_score": 0,
+      "personality_reasoning": "The speaker challenges the opponent's assertions and emphasizes the potential strains on public resources, which contradicts the warm and cooperative nature of high agreeableness."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker introduces concerns that could potentially align with a more liberal immigration stance, such as the economic integration and potential benefits of vocational training programs.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker's argument is focused on counter-arguments and potential negative impacts of immigration, which can be perceived as less cooperative and empathetic."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker's argument in favor of strict immigration policies is contradicted by the statement 'A balanced approach to immigration means considering the long-term consequences of our decisions, not just the fleeting benefits of inclusivity.'",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -2,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents present well-structured arguments with some evidence, but they could have delved deeper into empirical data to strengthen their cases. The debate is marked by a respectful exchange of ideas."
+  },
+  "summary": {
+    "avg_stance_a": 2.25,
+    "avg_stance_b": 1.0,
+    "avg_personality_a": 2.5,
+    "avg_personality_b": 1.0,
+    "stance_drift_a": 0,
+    "stance_drift_b": -2,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2
+  }
+}

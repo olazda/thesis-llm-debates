@@ -1,0 +1,102 @@
+{
+  "debate_id": "99c20d68-fc7e-4530-8ccd-40e3cff26578",
+  "timestamp": "2026-05-08T15:10:29.564243",
+  "motion": "This house believes that undocumented immigrants should have access to public services.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "openness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "openness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The stance for open, humane, and expanded immigration policies is clear, strong, and consistent throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by presenting a thoughtful argument for comprehensive immigration reform. They are imaginative as they explore multiple perspectives on the issue and offer a visionary solution. The speaker embraces complexity by acknowledging the interconnectedness of the world and the nuanced issues within the current immigration system. Lastly, creative analogies are used when likening immigration to a transformative force that strengthens societies and builds bridges between nations."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn, directly addressing and refuting opposing arguments.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity and explores multiple perspectives by presenting empirical evidence and discussing the humanitarian aspect. They also use creative analogies such as 'cherry-picked statistics', 'magnets' for future migrants, and 'future waves of migrants'."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies by countering opposing arguments and emphasizing the benefits of immigration to both the economy and society.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity, imagination, and exploration of multiple perspectives by presenting counterarguments, referencing various studies, and advocating for a comprehensive approach to immigration reform."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by challenging the opponent's argument and exploring multiple perspectives. They show creativity through their use of analogies like 'slippery slope' and 'muddying the waters'. The speaker also embraces complexity in their analysis of the immigration issue."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker advocates for strict immigration policies, they acknowledge their opponent's stance on inclusivity and compassion, which may suggest a slight softening of their position.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker primarily presents an argument that prioritizes national interests over the exploration of multiple perspectives and creative analogies, which are characteristics of a high openness personality trait."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker emphasizes the need for strict immigration policies, they also acknowledge that immigrants can have a positive impact on the economy and the moral obligation of refugees to seek protection. This inconsistency in stance weakens their overall argument.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows some signs of openness by acknowledging complexity and multiple perspectives, they lack the creative use of analogies, focusing instead on data analysis."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows some signs of intellectual curiosity and complexity in their analysis, they do not fully exhibit openness as they fail to explore multiple perspectives or use creative analogies."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker expresses a concern for the nation's citizens and proposes a balanced approach, the creativity and exploration of multiple perspectives are somewhat limited."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 1,
+    "personality_drift": 1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "While both agents present reasonable arguments and engage directly with each other's points, the debate lacks a clear winner due to inconsistencies in their evidence and reasoning."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 2.0,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.75,
+    "stance_drift_a": 0,
+    "stance_drift_b": 1,
+    "personality_drift_a": 0,
+    "personality_drift_b": 1,
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2
+  }
+}

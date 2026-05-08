@@ -1,0 +1,102 @@
+{
+  "debate_id": "3a1a1d24-932a-44f9-af79-524e3c898086",
+  "timestamp": "2026-05-08T15:20:07.513212",
+  "motion": "This house would grant asylum seekers the right to work immediately upon arrival.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "extraversion"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "extraversion"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The stance is clear, strong, and consistent throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates confidence and assertiveness by taking a strong stance on immigration reform, being emphatic about the benefits of immigration, and expressing a clear call to action."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive and confident in their argument, boldly challenging the opponent's stance. The tone is emphatic and the language is clear and direct, with no hedging or equivocation."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker's assertiveness, confidence, and dominance are evident throughout the entire response as they challenge their opponent's arguments, present their own perspective with conviction, and back it up with data."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently emphasizes the need for open, humane, and expanded immigration policies throughout their argument.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive and emphatic in their arguments, exhibiting a high level of confidence and dominance."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, and dominant in their argument, demonstrating a high level of extraversion."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker supports strict immigration policies, they briefly consider a multifaceted approach to address root causes of migration, which may seem inconsistent but is still supportive of controlling immigration.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker is confident and assertive in addressing the opponent's arguments, but hedges slightly in acknowledging that comprehensive immigration reform does not necessarily result in ceding control over borders."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker argues for strict immigration policies, they do acknowledge that a highly skilled workforce can be a net positive, which slightly softens their stance.",
+      "personality_score": 2,
+      "personality_reasoning": "While assertive and confident in their arguments, the speaker occasionally hedges ('provide temporary relief', 'neglected to account')"
+    },
+    {
+      "turn": "closing",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker's argument contradicts their assigned stance by mentioning 'open borders' and 'amnesty', which are concepts opposite to strict, controlled, and restrictive immigration policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker's tone is assertive and confident but lacks emphatic and energetic qualities that are characteristic of high extraversion."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -3,
+    "personality_drift": -2
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 2,
+    "civility": 1,
+    "reasoning": "Both agents present well-structured arguments with some evidence, engage directly with opponent's points, but could benefit from more detailed and specific evidence to support their claims."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 1.75,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.0,
+    "stance_drift_a": 0,
+    "stance_drift_b": -3,
+    "personality_drift_a": 0,
+    "personality_drift_b": -2,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 2,
+    "civility": 1
+  }
+}

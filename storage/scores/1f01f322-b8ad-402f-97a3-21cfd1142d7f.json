@@ -1,0 +1,102 @@
+{
+  "debate_id": "1f01f322-b8ad-402f-97a3-21cfd1142d7f",
+  "timestamp": "2026-05-08T15:15:21.354145",
+  "motion": "This house believes that undocumented immigrants should have access to public services.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "neuroticism"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "neuroticism"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is clear and consistent throughout the debate turn, advocating for open, humane, and expanded immigration policies.",
+      "personality_score": 1,
+      "personality_reasoning": "While the speaker displays passion and concern for immigrants, there is no evident sign of emotional intensity, anxiety, reactivity, defensiveness, or urgency and alarm that characterizes high neuroticism."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker's responses exhibit emotional intensity, anxiety, and defensiveness through their firm tone, expressed urgency, and clear disapproval of the opponent's arguments."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker supports open immigration policies and mentions their benefits, they also argue for setting limits to ensure people share values and contribute to prosperity. This can be perceived as a softening of the stance.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker displays some urgency and alarm in their tone, they also maintain a logical and persuasive demeanor throughout the response, which somewhat reduces the visibility of neuroticism."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker acknowledges potential concerns about open borders, which slightly contradicts their stance of support for expanded immigration policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker does exhibit some urgency and alarm in their tone, but this is not consistent throughout the response. The majority of the text focuses on presenting arguments and reasoning, rather than emotional intensity or defensiveness."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker explicitly argues against open borders and prioritizing the interests of immigrants over native-born citizens, which contradicts a stance in support of strict, controlled, and restrictive immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high neuroticism by expressing urgency and alarm, anxiety, defensiveness, and emotional intensity throughout the response."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently exhibits high neuroticism through their emotional intensity (rising indignation, urgent tone), anxiety (claims of cherry-picking and misguided ideologies), reactiveness (to the opponent's response), defensiveness (arguing against debunked statistics and emotive appeals), and alarm (warnings about open borders leading to exploitation, cultural erosion, and economic instability)."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker exhibits urgency and alarm when discussing the consequences of open borders and cultural homogenization, there are moments where the emotional intensity fades, such as when taking a deep breath and using a measured tone."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently and strongly supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high levels of emotional intensity and urgency, showing a defensive and reactive attitude towards the opponent's arguments. The tone of conviction and alarm, as well as the frequent references to national sovereignty and cultural identity, further illustrate neurotic traits."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": -2,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 3,
+    "personality_drift": 0
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 0,
+    "reasoning": "Both agents provide some evidence and logical arguments, but the debate is marred by a lack of civility and frequent personal attacks."
+  },
+  "summary": {
+    "avg_stance_a": 2.25,
+    "avg_stance_b": 2.25,
+    "avg_personality_a": 1.75,
+    "avg_personality_b": 2.75,
+    "stance_drift_a": -2,
+    "stance_drift_b": 3,
+    "personality_drift_a": 0,
+    "personality_drift_b": 0,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 0
+  }
+}

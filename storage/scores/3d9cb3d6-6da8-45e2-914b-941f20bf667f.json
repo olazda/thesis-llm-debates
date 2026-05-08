@@ -1,0 +1,102 @@
+{
+  "debate_id": "3d9cb3d6-6da8-45e2-914b-941f20bf667f",
+  "timestamp": "2026-05-08T15:16:55.094578",
+  "motion": "This house believes that undocumented immigrants should have access to public services.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "extraversion"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "extraversion"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently and strongly supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, emphatic, and dominant in their argument for immigration policy reform."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, confident, emphatic, and dominant in their argument, never hedging or backing down from their point of view."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows confidence and assertiveness in their argument, they also hedge with phrases like 'I must correct' and 'I would argue,' which suggests a lack of complete certainty."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, and emphatic in their argument. They take a dominant stance by challenging their opponent's claims and proposing their own vision. They never hedge but instead present a clear and persuasive case."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict and controlled immigration policies throughout their speech.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker demonstrates assertiveness and confidence, there are moments where hedging is evident ('contrary to my opponent's assertion') and the overall tone is not consistently emphatic."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports strict immigration policies throughout the argument and directly refutes the opposing view.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, and dominant in their argument, never hedging or backing down."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker's assertiveness, boldness, confidence, and dominance are consistently demonstrated through their strong refutation of the opponent's arguments, their emphatic tone, and their clear and confident stance on immigration policies."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker is assertive and confident in their argument, they do hedge slightly with phrases like 'it is clear', 'The evidence is clear' which slightly reduces visibility of extraversion."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 1,
+    "reasoning": "Both agents present well-structured arguments with evidence and directly engage with their opponent's points. However, the debate could have been more civil as there is some disagreement on framing and interpretation of each other's positions."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 2.5,
+    "avg_personality_a": 2.75,
+    "avg_personality_b": 2.5,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": 0,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 1
+  }
+}
