@@ -1,0 +1,102 @@
+{
+  "debate_id": "4027d45c-7de6-4ee5-9b89-fe66477e77e1",
+  "timestamp": "2026-05-20T13:28:29.283422",
+  "motion": "This house would prioritize family reunification over skills-based immigration.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates agreeableness by emphasizing warmth, cooperation, empathy, inclusivity, and bridge-building throughout the debate turn."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently uses inclusive language and acknowledges the opponent's viewpoint while advocating for empathy, cooperation, and a more equitable society."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warmth, empathy, inclusivity, and bridge-building by acknowledging the opponent's points, addressing concerns with respect, promoting a balanced immigration system, and prioritizing compassion."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by advocating for a pathway to legalization, protection from deportation, access to public services, and a system that balances the needs of all citizens while upholding values of compassion, fairness, and inclusivity.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates empathy, cooperation, and inclusivity throughout the response."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker acknowledges the importance of compassion and justice but quickly shifts focus to the challenges posed by unregulated immigration, aligning with a stance of supporting strict immigration policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker acknowledges their opponent and shares a common desire for a more inclusive nation, but the rest of the speech focuses on challenging aspects of unregulated immigration without addressing them in a warm or empathetic manner."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker occasionally raises questions about the positive contributions of undocumented immigrants but primarily emphasizes concerns related to their legal status and the potential negative externalities.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker challenges and disagrees with the opponent's perspective, which is less cooperative than agreeable behavior."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker consistently advocates for strict immigration policies but softens slightly when discussing the potential economic benefits of immigration and innovation.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker displays a lack of warmth and empathy in their response towards undocumented immigrants, which is inconsistent with high agreeableness."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker primarily supports strict immigration policies but momentarily acknowledges the humanity of undocumented immigrants, which slightly softens their stance.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker emphasizes fairness and compassion but also criticizes their opponent's position, which could be perceived as less cooperative."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": 1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both sides presented arguments with some evidence but could have done a better job addressing counterarguments and providing concrete solutions to the complex issue of immigration reform."
+  },
+  "summary": {
+    "avg_stance_a": 2.5,
+    "avg_stance_b": 2.0,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.25,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": 1,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2
+  }
+}

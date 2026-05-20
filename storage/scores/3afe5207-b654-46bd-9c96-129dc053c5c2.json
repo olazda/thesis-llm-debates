@@ -1,0 +1,102 @@
+{
+  "debate_id": "3afe5207-b654-46bd-9c96-129dc053c5c2",
+  "timestamp": "2026-05-20T12:26:58.313453",
+  "motion": "This house believes that borders should be open to all migrants.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "extraversion"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "extraversion"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness, confidence, emphatic delivery, and dominance through their strong stance on immigration reform, bold assertions, and persuasive language."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies, clearly refuting the opposing viewpoint while also promoting their own.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness and confidence by taking a strong stance against the opponent's argument. The boldness is evident in their critique of the opponent's approach to immigration. The speaker's emphatic tone and dominance are shown through their extensive refutation of the opponent's points."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive and emphatic, expresses confidence in their stance, uses energetic language, and never hedges (e.g., 'I firmly disagree', 'ignores the evidence', 'in fact'), thus demonstrating high extraversion."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, emphatic, and dominant in their arguments, never hedging."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict immigration policies throughout the speech.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness, boldness, confidence, and dominance in their tone and argumentative style. They exhibit a strong sense of emphatic conviction throughout the response."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently and strongly supports strict immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness, boldness, confidence, and dominance in their argumentative tone, clear conviction, and strong statements."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports strict and controlled immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness, boldness, confidence, and dominance in their argument, never hedging or backing down. They also show emphatic emphasis on their views."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits strong assertiveness, confidence, and dominance throughout the speech. They are bold in their criticism of their opponent and emphatic in their arguments for a strong border policy."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents present well-structured arguments with some evidence, but the overall quality of reasoning could be improved. Rebuttals are direct, but the debate lacks cohesion as both sides fail to address each other's key points comprehensively."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 3.0,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 3.0,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": 0,
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2
+  }
+}

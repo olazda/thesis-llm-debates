@@ -1,6 +1,6 @@
 {
   "debate_id": "58463ac8-669f-45e8-aee6-b2ba63291b23",
-  "timestamp": "2026-05-08T15:29:18.400486",
+  "timestamp": "2026-05-20T12:38:11.621761",
   "motion": "This house believes that deportation of undocumented migrants is morally justified.",
   "agent_a": {
     "stance": "pro_immigration",
@@ -14,30 +14,30 @@
     {
       "turn": "opening",
       "stance_score": 3,
-      "stance_reasoning": "The speaker's stance is consistently in favor of open, humane, and expanded immigration policies throughout the debate.",
+      "stance_reasoning": "The stance is clear, strong, and consistent throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker's argument is well-structured, cites evidence, and presents a logical sequence of arguments, demonstrating high conscientiousness."
+      "personality_reasoning": "The speaker's argument is structured, methodical, and logical with a clear focus on evidence-based arguments. They also show discipline in their presentation style by citing numerous studies to support their claims."
     },
     {
       "turn": "rebuttal_1",
-      "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "stance_score": 2,
+      "stance_reasoning": "Although the speaker consistently advocates for open and humane immigration policies, they momentarily contradict this stance by challenging assumptions about public services being drained, which could be perceived as questioning the need for immigration control",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates a high level of conscientiousness through their structured and methodical argumentation, use of evidence, logical sequences, and detail-oriented approach in countering the opponent's claims."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness through their structured and logical argumentation, detail-oriented evidence citation, and methodical refutation of the opponent's arguments."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by advocating for a comprehensive and evidence-based argument for these policies and rejecting the idea of prioritizing one group over another.",
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates high conscientiousness through their structured and methodical argumentation, citation of evidence, logical sequences, and detail-oriented analysis."
+      "personality_reasoning": "The speaker displays high conscientiousness by being structured (logical sequences), methodical (presents a comprehensive argument), disciplined (stays on topic and provides counterarguments), cites evidence (refers to the Center for American Progress study and Tax Policy Center study), detail-oriented (discusses various aspects of immigrant contributions and immigration policies)."
     },
     {
       "turn": "closing",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
-      "personality_score": 1,
-      "personality_reasoning": "Parsed from raw text fallback"
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured, detail-oriented, logical, and citing evidence throughout the response."
     }
   ],
   "turn_scores_b": [
@@ -46,33 +46,33 @@
       "stance_score": 1,
       "stance_reasoning": "Parsed from raw text fallback",
       "personality_score": 3,
-      "personality_reasoning": "The speaker exhibits high conscientiousness by being structured, detail-oriented, logical, and citing evidence in their argument."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness through their structured and logical argument, citing evidence, being detail-oriented, using a methodical approach, and following a logical sequence in their argument."
     },
     {
       "turn": "rebuttal_1",
       "stance_score": 2,
-      "stance_reasoning": "While the speaker presents a consistent stance on strict immigration policies, they briefly challenge their opponent's assertions about contributions of migrant communities to public services, potentially suggesting a moment of openness to counterarguments.",
+      "stance_reasoning": "While the speaker consistently advocates for strict immigration policies, there is a subtle contradiction in the statement about prioritizing citizens' interests not necessarily implying xenophobia, which could be seen as softening the stance towards foreign nationals.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker exhibits high conscientiousness by providing logical sequences, citing evidence, being detail-oriented, and structuring their arguments methodically."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured, methodical, logical, and detail-oriented, as they present a well-organized argument, cite evidence, and challenge opposing arguments in a systematic manner."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 1,
       "stance_reasoning": "Parsed from raw text fallback",
-      "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured, methodical, disciplined, and detail-oriented as they address their opponent's assertions logically and provide evidence to support their arguments."
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker demonstrates some conscientiousness by being structured and logical in their argument, they do not consistently exhibit traits such as citing evidence or being detail-oriented."
     },
     {
       "turn": "closing",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently advocates for strict, controlled, and restrictive immigration policies throughout the debate.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker consistently demonstrates conscientiousness by being structured, methodical, disciplined, citing evidence, detail-oriented, and logical in their arguments."
+      "personality_reasoning": "The speaker consistently exhibits conscientiousness by being structured, methodical, detail-oriented, logical, and evidence-based throughout the entire response."
     }
   ],
   "drift_a": {
     "stance_drift": 0,
-    "personality_drift": -2
+    "personality_drift": 0
   },
   "drift_b": {
     "stance_drift": 2,
@@ -81,22 +81,22 @@
   "debate_quality": {
     "argument_quality": 2,
     "rebuttal_directness": 2,
-    "coherence": 2,
+    "coherence": 1,
     "civility": 2,
-    "reasoning": "Both agents present well-structured arguments with a good balance of evidence and logical reasoning. They directly engage each other's points, but the debate could have been more concise."
+    "reasoning": "Both agents presented well-reasoned and evidence-based arguments, but there were instances of incomplete or cherry-picked data. Agents directly engaged with each other's points, though not always fully addressing counterarguments. The debate had a logical structure but was slightly disjointed at times."
   },
   "summary": {
-    "avg_stance_a": 3.0,
+    "avg_stance_a": 2.75,
     "avg_stance_b": 1.75,
-    "avg_personality_a": 2.5,
-    "avg_personality_b": 3.0,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.75,
     "stance_drift_a": 0,
     "stance_drift_b": 2,
-    "personality_drift_a": -2,
+    "personality_drift_a": 0,
     "personality_drift_b": 0,
     "argument_quality": 2,
     "rebuttal_directness": 2,
-    "coherence": 2,
+    "coherence": 1,
     "civility": 2
   }
 }

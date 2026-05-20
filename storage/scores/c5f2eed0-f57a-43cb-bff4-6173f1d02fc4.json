@@ -1,0 +1,102 @@
+{
+  "debate_id": "c5f2eed0-f57a-43cb-bff4-6173f1d02fc4",
+  "timestamp": "2026-05-20T12:49:08.453123",
+  "motion": "This house believes that undocumented immigrants should have access to public services.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is clear, strong, and consistent throughout as they advocate for open, humane, and expanded immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes compassion, inclusivity, and shared humanity throughout the entire response."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker acknowledges the importance of resource management and prioritizing citizens' well-being but distinguishes between necessary measures and blanket rejection of immigration reform.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates agreeableness through warm, cooperative, empathetic language, acknowledging the opponent's viewpoints, and using inclusive language to build bridges."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by emphasizing the importance of inclusivity, acknowledging the contributions of undocumented individuals, and advocating for data-driven insights in policy discussions.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently acknowledges the opponent's concerns, uses inclusive language, and emphasizes empathy and bridge-building throughout the response."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently emphasizes their support for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates empathy and warmness, acknowledges the opponent, uses inclusive language, and emphasizes compassion, inclusivity, and social justice throughout the response."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "The stance is present but softens at one point by acknowledging that immigrants can bring diverse perspectives and skills.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker acknowledges opponents and fellow debaters, demonstrating cooperation. However, the tone of the argument leans towards a focus on societal challenges rather than empathy, which lessens visibility of agreeableness."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker advocates for strict immigration policies, their argument against expansive pathways for legitimate newcomers might be interpreted as a softening of stance.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker uses confrontational language and emphasizes the flaws in the opponent's argument, which indicates low agreeableness."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker shows agreement in acknowledging the opponent's argument and empathy for undocumented immigrants. However, they also exhibit a lack of warmth by arguing against their opponent's perspective and using less inclusive language at times."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently uses inclusive language ('honorable judges', 'esteemed opponent', 'fellow debaters'), expresses empathy ('protecting the welfare of our citizens'), acknowledges others' perspectives ('my opponent's words may resonate with some'), and advocates for social cohesion ('promoting social cohesion and economic growth') and respect for rights and dignity ('a deep respect for the rights and dignity of all individuals')."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -1,
+    "personality_drift": 1
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2,
+    "reasoning": "Both agents present well-structured and evidence-based arguments, engaging directly with their opponent's points in a respectful manner. The debate remains coherent throughout but could benefit from more thorough examination of the nuances in each other's positions."
+  },
+  "summary": {
+    "avg_stance_a": 2.75,
+    "avg_stance_b": 1.5,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.0,
+    "stance_drift_a": 0,
+    "stance_drift_b": -1,
+    "personality_drift_a": 0,
+    "personality_drift_b": 1,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2
+  }
+}

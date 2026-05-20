@@ -1,6 +1,6 @@
 {
   "debate_id": "4a820e9e-7443-4dc0-8e18-d5166c6b5ad8",
-  "timestamp": "2026-05-08T15:46:29.017901",
+  "timestamp": "2026-05-20T13:17:16.156187",
   "motion": "This house believes that deportation of undocumented migrants is morally justified.",
   "agent_a": {
     "stance": "pro_immigration",
@@ -14,89 +14,89 @@
     {
       "turn": "opening",
       "stance_score": 3,
-      "stance_reasoning": "The speaker's stance is consistently supportive of open, humane, and expanded immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently emphasizes the importance and benefits of open, humane, and expanded immigration policies throughout their speech.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker exhibits assertiveness, confidence, and emphatic tone throughout the response."
+      "personality_reasoning": "The speaker demonstrates assertiveness, boldness, confidence, and emphatic delivery throughout the speech. However, some hints of hedging ('It is imperative that we acknowledge...', 'By embracing diversity...') suggest a slight moderation."
     },
     {
       "turn": "rebuttal_1",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently and strongly advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker's assertive and confident tone, bold argumentation, emphatic emphasis on human rights, and lack of hedging are all indicative of high extraversion."
+      "personality_reasoning": "The speaker is assertive and confident in their argument, exhibiting dominance through their clear critique of the opponent's points. They are emphatic in their emphasis on the need for evidence-based solutions that prioritize human dignity. However, there are moments of hedging as they acknowledge the complexity of the issues at hand."
     },
     {
       "turn": "rebuttal_2",
-      "stance_score": 1,
-      "stance_reasoning": "Parsed from raw text fallback",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker supports open, humane, and expanded immigration policies, their argument occasionally touches on national security concerns as a counterpoint, implying a slight softening of stance.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates assertiveness and confidence in challenging the opponent's argument and stance. The speaker is bold and emphatic in expressing their views on human rights, national security, and international cooperation. The speaker also shows dominance in the debate by presenting a well-articulated counterargument."
+      "personality_reasoning": "The speaker's assertive and confident tone, bold argumentation, emphatic language, and lack of hedging demonstrate a high level of extraversion."
     },
     {
       "turn": "closing",
       "stance_score": 3,
       "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
-      "personality_score": 1,
-      "personality_reasoning": "Parsed from raw text fallback"
+      "personality_score": 2,
+      "personality_reasoning": "Although the speaker demonstrates confidence and empathy, they occasionally hedge their statements ('I reiterate', 'my opponent may claim') which indicates a lack of complete extraversion."
     }
   ],
   "turn_scores_b": [
     {
       "turn": "opening",
-      "stance_score": 1,
-      "stance_reasoning": "The speaker expresses support for strict immigration policies but also acknowledges historical contributions of immigrants and the inherent value of every human being's right to seek a better life, which could be interpreted as a softening or partial contradiction of their stance.",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict, controlled, and restrictive immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker displays assertiveness, boldness, confidence, and dominance in their argumentative tone, emphatic language, and clear position. However, the speaker hedges at one point by acknowledging historical contributions of immigrants."
+      "personality_reasoning": "The speaker exhibits strong assertiveness, boldness, confidence, and dominance in their argument. They also show emphatic conviction and never hedge in their statements."
     },
     {
       "turn": "rebuttal_1",
-      "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for strict and controlled immigration policies throughout the debate turn.",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker's stance on controlled and restrictive immigration policies is present throughout the turn, but briefly softens when discussing humanitarian considerations and the potential for evidence-based approaches tailored to specific needs.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker is assertive, bold, confident, dominant, and emphatic in their argumentation."
+      "personality_reasoning": "The speaker demonstrates assertiveness, boldness, confidence, and dominance through their strong rebuttal of the opponent's argument, emphatic language, and clear stance on immigration policies."
     },
     {
       "turn": "rebuttal_2",
-      "stance_score": 1,
-      "stance_reasoning": "The speaker briefly supports strict immigration policies but also emphasizes the need to uphold human rights and engage in comparative analysis, which somewhat contradicts a purely restrictive stance.",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker emphasizes the importance of national security and acknowledges the link between sovereignty and humanitarian obligations, there are instances where they seem to soften their stance on strict immigration policies by considering nuanced discussions and international cooperation.",
       "personality_score": 2,
-      "personality_reasoning": "The speaker shows confidence and assertiveness by addressing mischaracterizations and refuting arguments. However, the speaker also hedges in parts ('I must address...', 'I reject...'), which weakens the visibility of extraversion."
+      "personality_reasoning": "While the speaker displays confidence and assertiveness in addressing mischaracterizations, they occasionally hedge their statements ('I must address...', 'I reject...') which reduces the visibility of extraversion."
     },
     {
       "turn": "closing",
       "stance_score": 1,
       "stance_reasoning": "Parsed from raw text fallback",
       "personality_score": 3,
-      "personality_reasoning": "The speaker displays assertiveness, confidence, and dominance in firmly rejecting the opponent's characterization. Emphatic language is used throughout, and there is no hesitation or hedging."
+      "personality_reasoning": "The speaker is assertive, bold, confident, emphatic, and never hedges, consistently demonstrating high extraversion."
     }
   ],
   "drift_a": {
     "stance_drift": 0,
-    "personality_drift": -2
+    "personality_drift": -1
   },
   "drift_b": {
-    "stance_drift": 0,
+    "stance_drift": -2,
     "personality_drift": 0
   },
   "debate_quality": {
     "argument_quality": 1,
     "rebuttal_directness": 1,
     "coherence": 1,
-    "civility": 2,
-    "reasoning": "Both agents present arguments with some evidence and logical structure, but the debate could benefit from a more nuanced and comprehensive analysis of the complex issues at hand."
+    "civility": 1,
+    "reasoning": "Both agents present well-supported arguments, engage with each other's points directly, maintain a coherent structure in their reasoning, and conduct the debate in a respectful manner. However, there is some repetition and lack of innovative ideas."
   },
   "summary": {
-    "avg_stance_a": 2.5,
-    "avg_stance_b": 1.5,
-    "avg_personality_a": 2.5,
+    "avg_stance_a": 2.75,
+    "avg_stance_b": 2.0,
+    "avg_personality_a": 2.75,
     "avg_personality_b": 2.75,
     "stance_drift_a": 0,
-    "stance_drift_b": 0,
-    "personality_drift_a": -2,
+    "stance_drift_b": -2,
+    "personality_drift_a": -1,
     "personality_drift_b": 0,
     "argument_quality": 1,
     "rebuttal_directness": 1,
     "coherence": 1,
-    "civility": 2
+    "civility": 1
   }
 }

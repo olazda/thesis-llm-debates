@@ -1,6 +1,6 @@
 {
   "debate_id": "848a5f3b-9cdf-492e-b8bb-3f58e58e0517",
-  "timestamp": "2026-05-08T15:25:26.106316",
+  "timestamp": "2026-05-20T12:30:19.019208",
   "motion": "This house would prioritize family reunification over skills-based immigration.",
   "agent_a": {
     "stance": "pro_immigration",
@@ -14,30 +14,30 @@
     {
       "turn": "opening",
       "stance_score": 3,
-      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is clear, strong, and consistent throughout the debate turn.",
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is clearly articulated throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker consistently exhibits traits of agreeableness such as empathy, inclusivity, and cooperation throughout the entire response."
+      "personality_reasoning": "The speaker consistently exhibits empathy, acknowledges others, and uses inclusive language throughout the response."
     },
     {
       "turn": "rebuttal_1",
-      "stance_score": 1,
-      "stance_reasoning": "Parsed from raw text fallback",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker acknowledges others, uses inclusive language, bridges-building by suggesting a more compassionate approach to immigration."
+      "personality_reasoning": "The speaker consistently emphasizes the importance of empathy, compassion, and inclusivity throughout their argument."
     },
     {
       "turn": "rebuttal_2",
-      "stance_score": 3,
-      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
       "personality_score": 3,
-      "personality_reasoning": "The speaker displays warmth by acknowledging the opponent's emphasis on security. Cooperativeness is shown through the offer of a more nuanced approach to address shared concerns. Empathy is evident in addressing human trafficking, terrorism, and public health concerns with compassionate solutions. Inclusive language is used throughout, and bridge-building is attempted by proposing cooperation with international partners."
+      "personality_reasoning": "The speaker acknowledges the opponent's point of view and uses inclusive language throughout the response, demonstrating empathy and a cooperative approach."
     },
     {
       "turn": "closing",
-      "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn, emphasizing inclusivity, compassion, and balancing security with human rights.",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
       "personality_score": 3,
-      "personality_reasoning": "The speaker consistently emphasizes empathy, acknowledges the opponent's viewpoint, uses inclusive language, and promotes a more compassionate approach towards immigration, which strongly demonstrates high agreeableness."
+      "personality_reasoning": "The speaker consistently emphasizes empathy, acknowledges their opponent's perspective, and promotes an inclusive and compassionate approach to immigration."
     }
   ],
   "turn_scores_b": [
@@ -45,58 +45,58 @@
       "turn": "opening",
       "stance_score": 1,
       "stance_reasoning": "Parsed from raw text fallback",
-      "personality_score": 1,
-      "personality_reasoning": "The speaker acknowledges the opponent's passion but does not demonstrate warmth, cooperation, empathy, or inclusivity. Instead, they focus on disagreement and the need for balancing national sovereignty and citizen interests, which may be perceived as conflicting with agreeableness."
+      "personality_score": 2,
+      "personality_reasoning": "The speaker acknowledges their opponent's passion and shares concern for undocumented immigrants and refugees, but the tone is more focused on debate and arguments rather than empathy or warm inclusiveness."
     },
     {
       "turn": "rebuttal_1",
-      "stance_score": 3,
-      "stance_reasoning": "The speaker consistently supports strict and controlled immigration policies throughout the debate turn.",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker maintains support for strict immigration policies, they also acknowledge the plight of immigrants and criticize their opponent's perspective. This indicates a softening or hedging on the stance.",
       "personality_score": 0,
-      "personality_reasoning": "The speaker emphasizes security concerns over compassion, criticizing the opponent's suggestions, and does not show warmth, cooperation, empathy, or bridge-building."
+      "personality_reasoning": "The speaker does not demonstrate warmth, cooperation, empathy, inclusivity, or bridge-building in this debate turn."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 3,
       "stance_reasoning": "The speaker consistently supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
       "personality_score": 1,
-      "personality_reasoning": "The speaker's tone and language are more focused on disagreeing and arguing against the opponent rather than showing empathy or inclusiveness."
+      "personality_reasoning": "The speaker is arguing against the opponent's position and using a more confrontational tone which may indicate low agreeableness."
     },
     {
       "turn": "closing",
-      "stance_score": 2,
-      "stance_reasoning": "The speaker emphasizes the need for effective solutions and prioritizing security, economic stability, and national sovereignty, which aligns with their stance. However, there's a mention of 'not undermining the very fabric of our society,' suggesting a concern for compassion that could be seen as a slight departure from a strictly restrictive immigration policy.",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently reinforces the stance of supporting strict, controlled, and restrictive immigration policies throughout the debate turn.",
       "personality_score": 2,
-      "personality_reasoning": "While the speaker argues for effective solutions and recognizes their opponent's assertions, they do not demonstrate a strong emphasis on warmth, cooperation, empathy, or inclusivity. The use of inclusive language is present but not consistent."
+      "personality_reasoning": "While the speaker emphasizes the need for balance and cooperation, they also criticize their opponent's approach, which could be perceived as less empathetic. Additionally, the focus on national security, economic stability, and national sovereignty may overshadow the warm and inclusive language."
     }
   ],
   "drift_a": {
-    "stance_drift": 0,
+    "stance_drift": -2,
     "personality_drift": 0
   },
   "drift_b": {
-    "stance_drift": 1,
-    "personality_drift": 1
+    "stance_drift": 2,
+    "personality_drift": 0
   },
   "debate_quality": {
-    "argument_quality": 1,
+    "argument_quality": 2,
     "rebuttal_directness": 2,
-    "coherence": 1,
+    "coherence": 2,
     "civility": 2,
-    "reasoning": "Both agents present well-reasoned arguments and engage in a civil debate, though the quality of evidence could be improved."
+    "reasoning": "Both agents presented well-structured arguments and engaged directly with each other's points. The debate was logical and respectful throughout."
   },
   "summary": {
-    "avg_stance_a": 2.5,
+    "avg_stance_a": 2.0,
     "avg_stance_b": 2.25,
     "avg_personality_a": 3.0,
-    "avg_personality_b": 1.0,
-    "stance_drift_a": 0,
-    "stance_drift_b": 1,
+    "avg_personality_b": 1.25,
+    "stance_drift_a": -2,
+    "stance_drift_b": 2,
     "personality_drift_a": 0,
-    "personality_drift_b": 1,
-    "argument_quality": 1,
+    "personality_drift_b": 0,
+    "argument_quality": 2,
     "rebuttal_directness": 2,
-    "coherence": 1,
+    "coherence": 2,
     "civility": 2
   }
 }

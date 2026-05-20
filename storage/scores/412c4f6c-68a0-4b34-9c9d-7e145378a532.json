@@ -1,0 +1,102 @@
+{
+  "debate_id": "412c4f6c-68a0-4b34-9c9d-7e145378a532",
+  "timestamp": "2026-05-20T12:58:31.675314",
+  "motion": "This house would prioritize family reunification over skills-based immigration.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "extraversion"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "extraversion"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The stance is clear, strong, and consistent throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits confidence and assertiveness throughout the speech by advocating passionately for open immigration policies, using emphatic language, and urging the audience to consider their arguments."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by advocating for the benefits of immigration, challenging restrictive claims, and proposing inclusive policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive and confident in their arguments, boldly challenging the opponent's viewpoints. They are emphatic in their support for immigration and never hedge, instead presenting a strong case backed by evidence."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by advocating for nuanced understandings of cultural exchange, challenging assumptions about labor markets and economic impact, and emphasizing the positive contributions of immigration as shown in credible research.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker's tone is assertive and confident, exhibiting a high level of dominance in presenting their arguments with emphatic language and clear points."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, confident, emphatic, and bold in their argument, never hedging or showing doubt. They are also energetic and dominant in their presentation style."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker contradicts their stance by acknowledging that some immigrants contribute to the economy and have skills, which implies a more moderate view on immigration.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker's assertiveness and confidence are apparent, but hedging is observed in the use of phrases like 'my opponent's emotive appeal,' 'ignores,' 'overstated,' 'conveniently ignores,' and 'very real economic costs.' The boldness and dominance are less visible as the tone is more argumentative rather than persuasively engaging."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker's statement about historical and ongoing realities of colonialism, imperialism, and socioeconomic inequality could be interpreted as a slight contradiction to their stance for strict, controlled, and restrictive immigration policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker's tone is assertive and bold, but there are moments of hedging ('naive at best', 'no empirical evidence to support the claim') that reduce the overall visibility of extraversion."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker, while advocating for strict immigration policies, acknowledges the experience of Jewish refugees as a counterexample to their argument, which could be perceived as inconsistent with their stance.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict immigration policies and addresses potential counterarguments while reiterating the importance of national interests.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows assertiveness and confidence in their arguments, there are moments where they hedge, such as acknowledging that compassion is essential and their position isn't 'divisive' or 'fear-mongering', which weakens the overall visibility of extraversion."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 2,
+    "personality_drift": 0
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents present arguments that are mostly supported by evidence and engage directly with each other's points, but the quality of their reasoning could be improved through more careful analysis of the evidence they cite."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 1.5,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.5,
+    "stance_drift_a": 0,
+    "stance_drift_b": 2,
+    "personality_drift_a": 0,
+    "personality_drift_b": 0,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "debate_id": "da2214ee-240d-4c2d-9a44-1e3cc9bdd6db",
+  "timestamp": "2026-05-20T12:41:36.905472",
+  "motion": "This house believes that deportation of undocumented migrants is morally justified.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "neuroticism"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "neuroticism"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is consistently presented throughout the argument.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "Although the speaker argues for open, humane, and expanded immigration policies, they briefly acknowledge their opponent's passion before responding, which could potentially soften the stance slightly.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker exhibits calm and logical reasoning rather than emotional intensity, urgency, or alarm."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by emphasizing the positive economic contributions of immigrant families, advocating for improved vetting processes while providing a pathway for refugees or asylum seekers, and rejecting the idea that robust safeguards must come at the expense of compassion.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker does not exhibit a high level of neuroticism as they remain calm and measured in their response, showing minimal signs of urgency or alarm."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker emphasizes their support for a balanced approach and acknowledges the rights of native-born citizens, they also express concern about being mischaracterized as prioritizing immigrant groups over natives. This slight contradiction weakens their consistent stance on expanded immigration policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker shows concern and urgency, but does not demonstrate high levels of anxiety, defensiveness, or reactivity."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker expresses concern for the nation's vulnerable citizens and prioritizing them over potential immigrants, which contradicts a stance of strict, controlled, and restrictive immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker expresses urgency and alarm by using strong language ('deeply troubled', 'recipe for disaster', 'tidal wave of unchecked immigration', 'demand that we protect'), shows defensiveness ('I will not stand idly by'), and displays emotional intensity throughout the response."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker expresses concern and urgency regarding the opponent's approach, but does not display excessive anxiety or defensiveness."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker's argumentation is primarily logical and analytical, with little emotional intensity, urgency, or alarm present."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker expresses urgency and alarm in the early part of their argument but shows moments of lack of neuroticism in other parts, such as when they clarify that they are not demonizing refugees."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": -1,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 3,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 1,
+    "reasoning": "Both agents provide evidence and arguments that are generally well-supported but fall short of presenting a comprehensive or convincing case. Each agent addresses the opponent's points directly yet some counterarguments are not fully refuted."
+  },
+  "summary": {
+    "avg_stance_a": 2.5,
+    "avg_stance_b": 1.25,
+    "avg_personality_a": 1.0,
+    "avg_personality_b": 2.0,
+    "stance_drift_a": -1,
+    "stance_drift_b": 3,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 1
+  }
+}

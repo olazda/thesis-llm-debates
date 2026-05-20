@@ -1,0 +1,102 @@
+{
+  "debate_id": "99187456-f624-4ad5-a955-909aea7f5c53",
+  "timestamp": "2026-05-20T12:23:28.895231",
+  "motion": "This house believes that deportation of undocumented migrants is morally justified.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is consistently expressed throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warm, cooperative, and empathetic language throughout the debate turn."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker repeatedly emphasizes the importance of compassion and inclusivity throughout their response, using inclusive language and acknowledging others' positions."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the argument reiterates the support for open immigration policies, it also challenges the assumption that certain groups are inherently more deserving of compassion, which slightly softens the stance.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker demonstrates understanding and empathy, they also challenge the opposing viewpoint assertively, which weakens the visibility of high agreeableness in certain instances."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is clear, strong, and consistently supportive of open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes empathy, acknowledges others' perspectives, and promotes inclusivity throughout the debate turn."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is consistently supportive of strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker prioritizes the protection of their own people and establishing clear boundaries, which may suggest a lack of empathy and cooperation."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker supports strict immigration policies, they also acknowledge the importance of compassion and inclusivity, which could be seen as a softening or hedging of their stance.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker acknowledges the importance of compassion and inclusivity, but primarily argues for prioritizing citizens' interests, which may be perceived as less empathetic or cooperative."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "The argument about unintended consequences and fairness seems to suggest a nuanced approach, which is not fully consistent with the assigned stance of strict, controlled, and restrictive immigration policies.",
+      "personality_score": 0,
+      "personality_reasoning": "The speaker focuses on fairness, justice, and protection of the nation's people, which indicates a high level of conscientiousness rather than agreeableness."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker advocates for social and economic considerations over human dignity, which directly contradicts the stance of supporting strict, controlled, and restrictive immigration policies.",
+      "personality_score": 0,
+      "personality_reasoning": "The speaker does not exhibit warm, cooperative, empathetic, inclusive language, or bridge-building traits. Instead, the tone is confrontational and focuses on economic realities rather than human dignity and compassion."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -3,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents present well-reasoned arguments with some evidence, engage directly with opponent's points, maintain a coherent structure but have room for improvement in logical consistency, and maintain respectful dialogue."
+  },
+  "summary": {
+    "avg_stance_a": 2.75,
+    "avg_stance_b": 1.5,
+    "avg_personality_a": 2.75,
+    "avg_personality_b": 0.5,
+    "stance_drift_a": 0,
+    "stance_drift_b": -3,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2
+  }
+}

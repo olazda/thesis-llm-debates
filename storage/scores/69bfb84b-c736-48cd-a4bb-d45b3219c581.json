@@ -1,0 +1,102 @@
+{
+  "debate_id": "69bfb84b-c736-48cd-a4bb-d45b3219c581",
+  "timestamp": "2026-05-20T12:54:51.427525",
+  "motion": "This house would grant asylum seekers the right to work immediately upon arrival.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "extraversion"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "extraversion"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is clear, strong, and consistent throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness and boldness by stating their opinion confidently, emphatically, and assertively. They exhibit energy and confidence throughout the speech, dominating the conversation with their powerful rhetoric. The use of phrases like 'I stand before you today to assert' shows dominance."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, and emphatic in their argument. They are energetic in their delivery as they passionately address the complexities of the immigration system. However, the speaker does hedge slightly by acknowledging that their opponent presents a 'stark picture'."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies but occasionally criticizes the opponent's stance, which implies a position against these policies.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker shows confidence and empathy in their argument but hedges slightly with phrases like 'my opponent's attempts', 'moreover', and 'history has shown us time and again'."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker's stance remains clear and consistent for the most part. However, a slight hedge can be observed when they acknowledge the need to prioritize security and welfare of citizens, which could potentially be interpreted as somewhat supporting stricter immigration policies.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows assertiveness and confidence in their argument, they hedge with 'I firmly believe' and lack emphatic language characteristic of high extraversion."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is consistently supportive of strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive and confident in their argument, boldly stating their position and using dominant language. They are emphatic in their delivery, never hedging or wavering in their stance."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows confidence and assertiveness in their argument, they hedge by acknowledging their opponent's concerns, which weakens the visibility of extraversion."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker is assertive and confident in addressing claims, there are moments of hedging ('In fact', 'I disagree') which indicate a lack of complete extraversion."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker advocates for strict immigration policies, they briefly suggest a balanced approach to addressing migration issues.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker is assertive, confident, and emphatic in their argument, there are moments where they hedge (e.g., 'it is essential to emphasize', 'the empirical evidence supports') which slightly weakens the overall visibility of extraversion."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": -1,
+    "personality_drift": -1
+  },
+  "drift_b": {
+    "stance_drift": -1,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents present well-structured arguments with some evidence, but the quality of the evidence could be improved and there are some inconsistencies in their reasoning."
+  },
+  "summary": {
+    "avg_stance_a": 2.0,
+    "avg_stance_b": 1.75,
+    "avg_personality_a": 2.5,
+    "avg_personality_b": 2.25,
+    "stance_drift_a": -1,
+    "stance_drift_b": -1,
+    "personality_drift_a": -1,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2
+  }
+}

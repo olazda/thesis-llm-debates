@@ -1,0 +1,102 @@
+{
+  "debate_id": "bdf8fc03-6200-40b4-8254-64ac0ca237ed",
+  "timestamp": "2026-05-20T13:03:41.741880",
+  "motion": "This house believes that borders should be open to all migrants.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently presents a clear and strong stance in support of open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates warm and empathetic language, acknowledges others (opponent, judges), uses inclusive language ('our case', 'our nations'), and emphasizes the importance of unity, compassion, and building a more prosperous world for all."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by arguing against restrictive policies, emphasizing the need to address root causes of migration, and advocating for innovative pathways for skilled workers, family reunification, and refugee protection.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high agreeableness through warm acknowledgement of the opponent, empathy towards immigrants and vulnerable populations, cooperative proposal for comprehensive immigration reform, and a bridge-building approach by addressing the root causes of migration."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently exhibits empathy and acknowledges the opponent, uses inclusive language, bridges the gap between opposing viewpoints, and prioritizes human rights over fiscal considerations."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes cooperation, empathy, and inclusivity throughout the debate turn by acknowledging their opponent, addressing a diverse audience, promoting compassionate immigration policies, and advocating for social progress and cohesion."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker acknowledges the opponent's statement and expresses a desire for a respectful dialogue, demonstrating cooperativeness. However, the tone is assertive at times, which could suggest a lack of empathy."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "Although the speaker acknowledges and cooperates by agreeing with some points made by their opponent, they also disagree and express strong opinions, which somewhat undermines the warmth and empathy associated with high agreeableness."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker's stance on strict immigration policies is present throughout the text. However, a slight contradiction arises when the speaker mentions balancing national interests with humanitarian concerns, which slightly softens the strictly restrictive stance.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker does demonstrate some cooperative language, but overall the tone is more assertive and argumentative rather than empathetic or warm."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker exhibits some aspects of agreeableness such as acknowledging their opponent's perspective and using inclusive language. However, the overall tone is argumentative and competitive which weakens the visibility of high agreeableness."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2,
+    "reasoning": "Both sides present well-reasoned and evidence-based arguments, directly engage with the opponent's specific points, maintain a logical structure, and conduct themselves in a respectful manner throughout the debate."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 1.25,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.5,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2
+  }
+}

@@ -1,6 +1,6 @@
 {
   "debate_id": "786344a2-5225-4372-b5d1-fcc0837815ec",
-  "timestamp": "2026-05-08T15:27:25.436283",
+  "timestamp": "2026-05-20T12:32:48.445365",
   "motion": "This house would prioritize family reunification over skills-based immigration.",
   "agent_a": {
     "stance": "pro_immigration",
@@ -14,65 +14,65 @@
     {
       "turn": "opening",
       "stance_score": 3,
-      "stance_reasoning": "The speaker's stance is clear, strong, and consistent throughout the debate turn as they advocate for open, humane, and expanded immigration policies.",
-      "personality_score": 2,
-      "personality_reasoning": "The speaker shows concern and urgency about the current immigration system's injustice, but does not exhibit signs of excessive anxiety or defensiveness."
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 0,
+      "personality_reasoning": "The speaker demonstrates strong empathy and passion for the issue, but does not exhibit high neuroticism as defined. There is no evidence of emotional intensity, anxiety, reactivity, defensiveness, or expressions of urgency and alarm."
     },
     {
       "turn": "rebuttal_1",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 1,
-      "personality_reasoning": "While expressing concerns and urging for acknowledgment of complexities, the speaker does not exhibit high neuroticism as they remain relatively calm and rational throughout their argument."
+      "personality_reasoning": "While the speaker expresses concern and acknowledges potential challenges, they do not exhibit high levels of emotional intensity, anxiety, reactivity, defensiveness, or urgency and alarm as required for a high neuroticism score."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn, emphasizing the benefits of diversity, the need for inclusive policies, and the effectiveness of targeted investments in public services.",
       "personality_score": 2,
-      "personality_reasoning": "While the speaker expresses urgency and alarm regarding their opponent's approach, they do not consistently demonstrate emotional intensity, anxiety, reactiveness, or defensiveness throughout the response."
+      "personality_reasoning": "While the speaker expresses urgency and alarm about their opponent's approach, they also exhibit a more measured tone throughout the response, which reduces the visibility of high neuroticism."
     },
     {
       "turn": "closing",
       "stance_score": 3,
       "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 1,
-      "personality_reasoning": "The speaker's tone is measured and reasoned throughout the response, not emotionally intense, anxious, reactive, defensive, or expressing urgency and alarm."
+      "personality_reasoning": "The speaker's language and tone do not indicate a high level of emotional intensity, anxiety, reactivity, defensiveness, or expression of urgency and alarm. Instead, they convey concern, reasoned argumentation, and a call for compassion."
     }
   ],
   "turn_scores_b": [
     {
       "turn": "opening",
       "stance_score": 3,
-      "stance_reasoning": "The speaker's stance on strict immigration policies is consistently emphasized throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker consistently expresses urgency and alarm throughout the debate turn by using phrases like 'deeply disturbed,' 'strikes me as naive,' 'gross exaggeration,' 'potential security threats,' 'significant costs and challenges,' and 'a brighter future for all its citizens'"
+      "personality_reasoning": "The speaker consistently displays emotional intensity and urgency through their strong opposition to the opponent's statements, expresses alarm about potential security threats, and defends national interests with a defensive tone."
     },
     {
       "turn": "rebuttal_1",
       "stance_score": 1,
       "stance_reasoning": "Parsed from raw text fallback",
       "personality_score": 3,
-      "personality_reasoning": "The speaker's tone is urgently defensive and alarmist throughout the response, displaying a high level of neuroticism."
+      "personality_reasoning": "The speaker expresses urgency and alarm throughout the response by emphasizing the concerns about immigration's impact on societies and the strains on public services."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 2,
-      "stance_reasoning": "Although the speaker's stance is clear overall, they briefly express a criticism towards their opponent (labeled as 'my opponent'), which may subtly suggest an open-mindedness that slightly deviates from the consistent support for strict immigration policies.",
-      "personality_score": 2,
-      "personality_reasoning": "Although the speaker expresses some urgency and alarm in their tone, they do not consistently exhibit high neuroticism throughout the entire response. The speaker's arguments are presented logically without showing excessive emotional intensity or defensiveness."
+      "stance_reasoning": "The speaker acknowledges the need for boundaries and clear expectations in diverse societies, but this could be interpreted as a softening of their stance against unrestricted immigration.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently exhibits urgency and alarm by expressing disappointment and frustration, defending their own arguments, and emphasizing the need to address issues head-on."
     },
     {
       "turn": "closing",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently advocates for strict immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently supports strict and controlled immigration policies throughout the debate turn.",
       "personality_score": 1,
-      "personality_reasoning": "The speaker shows some signs of emotional intensity and urgency, but the overall tone is more analytical and principled rather than anxious or defensive."
+      "personality_reasoning": "The speaker exhibits a sense of urgency and alarm, but the overall tone is principled and logical rather than emotionally intense or anxious."
     }
   ],
   "drift_a": {
     "stance_drift": 0,
-    "personality_drift": -1
+    "personality_drift": 1
   },
   "drift_b": {
     "stance_drift": 0,
@@ -83,16 +83,16 @@
     "rebuttal_directness": 1,
     "coherence": 1,
     "civility": 2,
-    "reasoning": "Both debaters present arguments with varying levels of evidence and reasoning, addressing each other's points directly. However, the debate lacks a clear winner due to conflicting perspectives on the benefits and challenges of immigration."
+    "reasoning": "Both agents provide arguments that are generally well-structured and based on evidence, although the quality of their reasoning is somewhat limited. Debate is respectful and free of personal attacks."
   },
   "summary": {
     "avg_stance_a": 3.0,
     "avg_stance_b": 2.25,
-    "avg_personality_a": 1.5,
-    "avg_personality_b": 2.25,
+    "avg_personality_a": 1.0,
+    "avg_personality_b": 2.5,
     "stance_drift_a": 0,
     "stance_drift_b": 0,
-    "personality_drift_a": -1,
+    "personality_drift_a": 1,
     "personality_drift_b": -2,
     "argument_quality": 1,
     "rebuttal_directness": 1,

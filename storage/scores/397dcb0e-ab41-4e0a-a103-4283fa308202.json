@@ -1,0 +1,102 @@
+{
+  "debate_id": "397dcb0e-ab41-4e0a-a103-4283fa308202",
+  "timestamp": "2026-05-20T12:43:31.384597",
+  "motion": "This house would prioritize family reunification over skills-based immigration.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "openness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "openness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently emphasizes the importance of open, humane, and expanded immigration policies throughout the speech.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by advocating for comprehensive immigration reform, embraces complexity in addressing the current state of immigration policies and suggesting a pathway for legalization, uses creative analogies like 'binding us as global citizens' and 'strip migrants of their humanity', explores multiple perspectives by acknowledging that immigration is both a policy issue and a moral imperative."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by questioning the opponent's perspective and offering an alternative view. They show creativity through their use of analogy ('empathy, dialogue, and cooperation') and exploration of multiple perspectives (suggesting a more inclusive definition of 'safeguarding'). The speaker also embraces complexity by discussing nuanced issues related to national borders, immigration, and social cohesion."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high openness through intellectual curiosity (addressing misguided notions, human rights crisis), imagination (creative analogies like 'unvetted migrants', 'ergode bureaucratic red tape'), embracing complexity (discussing unintended consequences of integration programs and addressing zero-sum game notion), and exploring multiple perspectives (regarding the needs and concerns of marginalized groups)."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently and strongly advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker displays intellectual curiosity by questioning simplistic solutions and false dichotomies. Imagination is shown through the creative vision of a more just and equitable future. The exploration of multiple perspectives is evident in discussing various aspects of immigration and its consequences."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker advocates for strict immigration policies but also suggests a counter-narrative of careful management and legalization, potentially softening the stance.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "Although the speaker advocates for strict immigration policies, they soften their stance slightly when discussing the value of integration programs and vocational education.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker does exhibit openness by exploring multiple perspectives and using creative analogies (e.g., 'secure borders are not inherently at odds with empathy and dialogue'), but the emphasis on practical solutions and national identity may weaken the visibility of this trait."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker argues for strict immigration policies and against uncontrolled immigration throughout the text, they briefly acknowledge the humanitarian crisis at the border, which could be seen as empathetic towards vulnerable populations.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows intellectual curiosity and uses creative analogies in their argument, they do not fully exhibit a strong embrace of complexity or exploration of multiple perspectives. The argument leans towards a single perspective, focusing on border security and social cohesion rather than thoroughly exploring other aspects of immigration."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker maintains support for restrictive immigration policies, there is a slight hedge towards the end where they suggest balancing national sovereignty with human dignity and compassion, which slightly softens their stance.",
+      "personality_score": 2,
+      "personality_reasoning": "Although the speaker demonstrates intellectual curiosity by discussing complex issues and multiple perspectives, they do not exhibit strong creativity in their analogy. They also focus primarily on practical concerns rather than embracing a broader emotional or imaginative perspective."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": 1
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2,
+    "reasoning": "Both debaters present well-reasoned arguments with evidence and engage directly with their opponent's points. The debate is coherent and structured logically, while remaining respectful and free of personal attacks."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 2.0,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.75,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": 1,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2
+  }
+}

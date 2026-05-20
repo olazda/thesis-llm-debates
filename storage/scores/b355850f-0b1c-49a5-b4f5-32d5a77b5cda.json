@@ -1,6 +1,6 @@
 {
   "debate_id": "b355850f-0b1c-49a5-b4f5-32d5a77b5cda",
-  "timestamp": "2026-05-08T15:31:22.039003",
+  "timestamp": "2026-05-20T12:39:56.467323",
   "motion": "This house believes that borders should be open to all migrants.",
   "agent_a": {
     "stance": "pro_immigration",
@@ -14,68 +14,68 @@
     {
       "turn": "opening",
       "stance_score": 3,
-      "stance_reasoning": "The stance of supporting open, humane, and expanded immigration policies is consistently presented throughout the speech.",
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates strong intellectual curiosity, imagination (in the use of metaphors and a vision for the future), an embracement of complexity in discussing immigration issues, uses creative analogies ('cornerstone of human progress', 'secure and compassionate'), and explores multiple perspectives (different approaches to immigration policy)."
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity and imagination by advocating for a new approach to immigration policy. They also embrace complexity by acknowledging the outdated notions that have previously guided policy. The use of creative analogies ('a future where our borders are not only secure, but also compassionate') further highlights their openness."
     },
     {
       "turn": "rebuttal_1",
-      "stance_score": 1,
-      "stance_reasoning": "Parsed from raw text fallback",
+      "stance_score": 3,
+      "stance_reasoning": "The debate turn consistently argues for open, humane, and expanded immigration policies throughout the turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker displays intellectual curiosity and embraces complexity by presenting a nuanced perspective on immigration. They use creative analogies (e.g., 'narrow focus', 'tired trope', 'simplistic equation') and explore multiple perspectives (e.g., economic, social, global)."
+      "personality_reasoning": "The speaker consistently displays intellectual curiosity by engaging in complex analysis of immigration dynamics, embraces complexity by discussing multiple perspectives and global economic realities, uses creative analogies such as 'narrow focus', 'tired trope', and 'vast network', and explores diverse perspectives on immigration contributions."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 1,
       "stance_reasoning": "Parsed from raw text fallback",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates intellectual curiosity by critically examining their opponent's arguments and offering alternative perspectives. They also exhibit creativity through the use of analogies, such as comparing undocumented migrants to native-born citizens. The speaker embraces complexity by addressing multiple aspects of immigration policy and global economic relationships."
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by critically examining the opponent's arguments. They are imaginative in presenting alternative perspectives on border management and immigration policy. The speaker embraces complexity by addressing multiple aspects of the debate, such as economic contributions, public assistance, border control, and global economic relationships."
     },
     {
       "turn": "closing",
-      "stance_score": 2,
-      "stance_reasoning": "Although the speaker supports open, humane, and expanded immigration policies, they concede that borders are a critical component of our ability to protect vulnerable individuals. This could be seen as a nod towards national security concerns, which may appear to contradict their stance.",
-      "personality_score": 1,
-      "personality_reasoning": "Parsed from raw text fallback"
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by examining their opponent's arguments closely and critically. They are imaginative in their use of complex analogies between immigration and global trade. The speaker also explores multiple perspectives on the topics of immigration, economic growth, national security, and social cohesion."
     }
   ],
   "turn_scores_b": [
     {
       "turn": "opening",
-      "stance_score": 1,
-      "stance_reasoning": "Parsed from raw text fallback",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on strict immigration policies is clear and consistent throughout the debate turn.",
       "personality_score": 1,
-      "personality_reasoning": "The speaker does not exhibit strong intellectual curiosity, imagination, or a clear exploration of multiple perspectives. They do not use creative analogies and instead focus on debunking their opponent's ideas."
+      "personality_reasoning": "The speaker shows a limited display of openness by acknowledging the opponent's passion and challenging entrenched narratives. However, the rest of the argument lacks intellectual curiosity, imagination, exploration of multiple perspectives, and creative analogies."
     },
     {
       "turn": "rebuttal_1",
-      "stance_score": 1,
-      "stance_reasoning": "Parsed from raw text fallback",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker maintains their stance on strict immigration policies throughout the argument, they briefly soften their stance by acknowledging mixed results in research about economic impacts of immigration.",
       "personality_score": 2,
-      "personality_reasoning": "While the speaker demonstrates some intellectual curiosity and a willingness to explore multiple perspectives, they do not show strong evidence of imagination or creativity in their analogies. Additionally, there are moments where the speaker's approach could be considered less open due to a focus on challenging the opposition rather than embracing complexity."
+      "personality_reasoning": "While the speaker shows some signs of intellectual curiosity and a willingness to explore multiple perspectives by acknowledging mixed results about unregulated immigration, the argument is mostly based on critical analysis rather than creativity or imagination. The use of complex arguments and counter-arguments, however, suggests an embrace of complexity."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 1,
-      "stance_reasoning": "The speaker's argument against lax immigration policies for national security and social cohesion seems to contradict the stance of supporting strict, controlled, and restrictive immigration policies.",
-      "personality_score": 1,
-      "personality_reasoning": "Parsed from raw text fallback"
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "Although the speaker demonstrates some creativity in their arguments and exploration of multiple perspectives, they do not show a strong embrace of complexity or use creative analogies consistently throughout the response."
     },
     {
       "turn": "closing",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently maintains support for strict immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently argues for strict immigration policies throughout the debate turn, emphasizing concerns about border security, national sovereignty, and their impact on public services, social cohesion, economic prosperity, and citizen protection.",
       "personality_score": 0,
-      "personality_reasoning": "The speaker's argument lacks curiosity, imagination, and explores only one perspective, focusing primarily on the negative aspects of immigration without considering potential benefits."
+      "personality_reasoning": "The speaker shows a lack of intellectual curiosity and creativity as they focus on criticizing the opponent's argument without proposing alternative solutions. They do not embrace complexity or multiple perspectives."
     }
   ],
   "drift_a": {
-    "stance_drift": -1,
-    "personality_drift": -2
+    "stance_drift": -2,
+    "personality_drift": 0
   },
   "drift_b": {
-    "stance_drift": 2,
+    "stance_drift": 0,
     "personality_drift": -1
   },
   "debate_quality": {
@@ -83,16 +83,16 @@
     "rebuttal_directness": 2,
     "coherence": 1,
     "civility": 2,
-    "reasoning": "Both debaters presented well-structured arguments with evidence, directly engaging with each other's points, and maintaining a civil tone throughout the debate. However, the consistency of their arguments could be improved."
+    "reasoning": "Both sides provide well-structured arguments backed by evidence, but there are inconsistencies in the debate's overall coherence."
   },
   "summary": {
-    "avg_stance_a": 1.75,
-    "avg_stance_b": 1.5,
-    "avg_personality_a": 2.5,
-    "avg_personality_b": 1.0,
-    "stance_drift_a": -1,
-    "stance_drift_b": 2,
-    "personality_drift_a": -2,
+    "avg_stance_a": 2.0,
+    "avg_stance_b": 2.25,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.25,
+    "stance_drift_a": -2,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
     "personality_drift_b": -1,
     "argument_quality": 2,
     "rebuttal_directness": 2,

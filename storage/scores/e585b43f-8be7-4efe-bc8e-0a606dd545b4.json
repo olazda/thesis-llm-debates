@@ -1,0 +1,102 @@
+{
+  "debate_id": "e585b43f-8be7-4efe-bc8e-0a606dd545b4",
+  "timestamp": "2026-05-20T12:04:18.707620",
+  "motion": "This house believes that deportation of undocumented migrants is morally justified.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "openness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "openness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is consistently presented and reinforced throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates intellectual curiosity, imaginative thinking, embrace of complexity, use of creative analogies, and exploration of multiple perspectives throughout the debate turn."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity and creativity through exploring multiple perspectives on immigration policy and human dignity. They also use creative analogies such as 'fostering resilience' and 'striving for equity'. The speaker embraces complexity by acknowledging the interdependence of global issues."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker advocates for open, humane, and expanded immigration policies, they occasionally question the assumption of national identity being linked to border control, which could be seen as somewhat challenging the status quo of border control.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high openness through intellectual curiosity, imaginative exploration of multiple perspectives, and creative use of historical analogies regarding immigration."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "Although the speaker advocates for a human-centered approach, they also criticize their opponent for prioritizing national sovereignty over human life, which may suggest a momentary focus on national interests.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits high openness by demonstrating intellectual curiosity through a nuanced understanding of the opponent's argument and presenting an imaginative solution to immigration reform. They also embrace complexity by acknowledging the need for balance but challenging the prioritization of national sovereignty over human life, using creative analogies such as 'nuances beneath the surface', 'constraining access to public services', and 'arbitrary barriers'. Finally, they explore multiple perspectives by emphasizing the importance of addressing systemic inequalities."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker does exhibit some openness through their intellectual curiosity and exploration of multiple perspectives on immigration policy. However, the speech also displays a lack of creativity in its analogies and embracing complexity, as it primarily focuses on the risks of unchecked immigration without fully exploring the benefits."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker's stance on strict immigration policies is weakened by acknowledging the need for a thoughtful and structured approach to addressing complex migration issues.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker does not demonstrate intellectual curiosity, imagination, nor exploration of multiple perspectives. The argument leans towards a narrow and structured viewpoint."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker demonstrates openness in their ability to explore multiple perspectives and use creative analogies (fair and transparent channels vs arbitrary barrier). However, they also show a tendency towards convention and orderliness, which weakens the visibility of openness."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    }
+  ],
+  "drift_a": {
+    "stance_drift": -1,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents present well-reasoned and evidence-based arguments, directly engage with the opponent's points, demonstrate a level of internal consistency in their respective positions, but could improve on overall logical structure and coherence."
+  },
+  "summary": {
+    "avg_stance_a": 2.0,
+    "avg_stance_b": 1.0,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.5,
+    "stance_drift_a": -1,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2
+  }
+}

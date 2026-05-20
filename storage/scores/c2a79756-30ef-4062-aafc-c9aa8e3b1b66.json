@@ -1,0 +1,102 @@
+{
+  "debate_id": "c2a79756-30ef-4062-aafc-c9aa8e3b1b66",
+  "timestamp": "2026-05-20T13:09:30.317551",
+  "motion": "This house believes that borders should be open to all migrants.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "conscientiousness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "conscientiousness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness throughout the response by presenting a structured and detailed argument, citing evidence, maintaining logical sequences, and advocating for a comprehensive overhaul of immigration policies in a disciplined and methodical manner."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by criticizing opposition's stance on national sovereignty, questioning their claim about unvetted populations, and emphasizing the benefits of humane immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker provides a structured and methodical argument, cites evidence, is detail-oriented, displays logical sequences, and emphasizes the importance of compassion and inclusivity which are all traits associated with high conscientiousness."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by arguing against the opponent's points about causation between immigration and strain on public resources, addressing misleading claims about migration management, challenging the false dichotomy between voluntary migration and coercive deportation, and critiquing an emphasis on prioritizing native-born citizens over inclusivity and diversity.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured, methodical, and detail-oriented in their argument. They provide logical sequences, cite evidence, and account for other contributing factors, showing a disciplined approach to the debate."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance remains consistent in advocating for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits high conscientiousness by providing a well-structured argument, citing evidence and counterarguments, being detail-oriented in their analysis, and promoting a logical approach to immigration policy."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker starts by acknowledging potential benefits of immigration but later argues that these benefits can only be realized with strict border controls and restrictive policies, which slightly softens the stance.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits high conscientiousness by being structured, methodical, disciplined, and detail-oriented in their argument. They cite evidence and present a logical sequence of arguments."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker emphasizes the importance of strict immigration policies, they also acknowledge that correlation does not imply causation and mention the need for effective integration policies. This somewhat softens the stance on the strictness of border controls.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured (logical sequences, clear link between immigration and strain on public resources), methodical (uses data from various countries to support claims), disciplined (cites numerous studies, references specific reports), detail-oriented (provides examples of increased waiting times for non-EU migrants and healthcare costs in the US), and logical (makes a clear distinction between voluntary migration and coercive deportation)."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker acknowledges the moral obligation to help those fleeing persecution or war, which slightly softens the stance of strict immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured and methodical in their argumentation, citing empirical evidence, showing detail-orientation, logical sequences, and discipline in addressing multiple points."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 1,
+      "stance_reasoning": "The statement acknowledges the potential benefits of immigration and discusses the importance of considering the needs and interests of all citizens, which seems to contradict the speaker's assigned stance.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -1,
+    "personality_drift": -2
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both debaters provide evidence and reasoned arguments, but their rebuttals could be more direct in addressing specific opponent points. Debate remains respectful throughout."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 1.75,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.5,
+    "stance_drift_a": 0,
+    "stance_drift_b": -1,
+    "personality_drift_a": 0,
+    "personality_drift_b": -2,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2
+  }
+}

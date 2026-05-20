@@ -1,0 +1,102 @@
+{
+  "debate_id": "04f543c6-2dad-423f-ae9c-e56e79cfd955",
+  "timestamp": "2026-05-20T12:56:44.614847",
+  "motion": "This house would prioritize family reunification over skills-based immigration.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "neuroticism"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "neuroticism"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is clear and consistent throughout, advocating for open, humane, and expanded immigration policies.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker expresses urgency and concern for millions of lives, there is no visible evidence of high neuroticism such as anxiety, defensiveness, or alarm in the text."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by refuting misconceptions, citing data supporting the economic benefits of immigration, clarifying their position as not prioritizing one group over another, and advocating for a well-managed immigration policy.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker exhibits a calm and logical demeanor throughout the response, rather than emotional intensity, anxiety, reactivity, defensiveness, or urgency that would indicate high neuroticism."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues in favor of open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "Although the speaker shows urgency and expresses concern about misconceptions and vague assertions made by the opponent, there are moments where the speaker's tone is not as intense or emotional as a highly neurotic individual might exhibit."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker shows urgency and alarm in addressing the opponent's argument, but moments of neuroticism are interspersed with calm and logical reasoning."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for strict immigration policies and argues against unregulated immigration throughout the turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker expresses urgency and alarm throughout the response by emphasizing the 'deep concern', 'profound misunderstanding', 'very real consequences', 'widespread public discontent', 'rising concerns', 'mounting pressure', 'devastating consequences'."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker's stance on strict immigration policies is present throughout the argument, but there is a slight softening when discussing the potential negative effects of unregulated immigration on social cohesion.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker shows high levels of anxiety and urgency throughout the response, expressing concern about misrepresentations, the potential negative effects of immigration, and the need for evidence to support opposing arguments."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker acknowledges the potential positive effects of immigration on entrepreneurship, innovation, and job creation but argues that these are not representative of the broader economic landscape, suggesting a softening of stance.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows some signs of neuroticism such as skepticism and urgency ('must respond', 'cannot be easily mitigated'), these traits are not consistently present throughout the entire response."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker maintains support for strict immigration policies throughout most of the argument, they also mention the need to find a 'balanced approach' which suggests a slight softening of stance.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows urgency and anxiety in expressing disagreement and emphasizing the importance of their argument, they do not exhibit consistent emotional intensity, defensiveness, or alarm throughout the response."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": -1,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both debaters present reasonable arguments, but with some inconsistencies and lack of strong evidence to support their positions. Debaters generally address each other's points directly, but the debate could have benefited from more concrete data and a clearer distinction between conflicting studies."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 2.25,
+    "avg_personality_a": 1.75,
+    "avg_personality_b": 2.5,
+    "stance_drift_a": 0,
+    "stance_drift_b": -1,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 2
+  }
+}

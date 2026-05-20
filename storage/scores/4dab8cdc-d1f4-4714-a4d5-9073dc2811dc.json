@@ -1,0 +1,102 @@
+{
+  "debate_id": "4dab8cdc-d1f4-4714-a4d5-9073dc2811dc",
+  "timestamp": "2026-05-20T12:45:20.862722",
+  "motion": "This house would prioritize family reunification over skills-based immigration.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "conscientiousness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "conscientiousness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is clearly articulated throughout the entire debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently demonstrates conscientiousness by providing structured arguments, citing evidence, and maintaining a logical sequence throughout the debate turn."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently and strongly supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured, methodical, and detail-oriented in their argument. They cite evidence, use logical sequences, and exhibit discipline in maintaining a focus on the topic while refuting their opponent's claims."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "Although the speaker consistently advocates for open, humane, and expanded immigration policies, they momentarily hedge by acknowledging that their opponent's characterization of their position as xenophobic may have been an oversimplification.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by being methodical, detail-oriented, and logical in their response, providing evidence to support their arguments, and maintaining a structured argument sequence."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently reinforces the support for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently emphasizes evidence-based policy, logical sequences, and detail-oriented argumentation throughout the entire response."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker acknowledges the value of immigrants but also emphasizes the need for strict control and potential drawbacks of open-door policies, which contradicts a purely supportive stance for restrictive immigration policies.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker demonstrates some level of conscientiousness through their structured and methodical argumentation, citing evidence, and logical sequences. However, there are moments where the focus on detail-oriented analysis weakens."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "The speaker's position on job displacement among native-born workers slightly contradicts their stance on restrictive immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by presenting a well-structured and methodical argument, citing evidence, addressing the opponent's points logically, and being detail-oriented in their examination of the Cato Institute report."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker reiterates their stance on strict immigration policies, they partially contradict it when discussing the need to protect the rights and interests of all citizens, which could be interpreted as acknowledging a need for some level of immigration.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker displays high conscientiousness through their structured and logical argumentation, detail-oriented analysis of research methodologies, citation of evidence, and emphasis on clear distinctions and logical sequences."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker's stance is mostly aligned as they support strict immigration policies, but momentarily softens the stance by advocating for a nuanced approach that balances these policies with protection of core values.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 1,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 1,
+    "reasoning": "The debate presents well-reasoned arguments based on research, with a direct engagement between the opponents. However, the consistency and cohesion of the arguments could have been improved."
+  },
+  "summary": {
+    "avg_stance_a": 2.75,
+    "avg_stance_b": 1.5,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.25,
+    "stance_drift_a": 0,
+    "stance_drift_b": 1,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 1
+  }
+}

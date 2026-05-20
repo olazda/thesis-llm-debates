@@ -1,0 +1,102 @@
+{
+  "debate_id": "c3e6ce2a-6233-49ea-a905-0a643e8940d2",
+  "timestamp": "2026-05-20T12:35:01.242040",
+  "motion": "This house believes that undocumented immigrants should have access to public services.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "openness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "openness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance is consistently supportive of open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits intellectual curiosity, imagination, and a willingness to explore multiple perspectives throughout the entire response."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by addressing the concerns about unregulated migration and proposes solutions. They show creativity by using analogies like 'mitigated through targeted policies' and 'create a more just and compassionate society'. The debate turn also indicates an embrace of complexity with discussions on diverse skills among migrants, exploitation, and balancing humanitarian needs with national security."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity by referencing numerous studies and OECD data. They show imagination through creative analogies like comparing immigrants to high-skilled occupations in STEM. The speaker embraces complexity by acknowledging both the lower-skilled labor qualifications of some migrants and their significant skills, entrepreneurship, and innovation. Lastly, they explore multiple perspectives by addressing concerns about national security and immigration reform."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits intellectual curiosity through research and evidence-based arguments. Imagination is shown by exploring multiple perspectives on immigration policy and national security. Embracing complexity can be seen in the consideration of both benefits and drawbacks of immigrant talent and integration programs. The use of creative analogies is demonstrated through the comparison of current policies to prioritizing xenophobia and nationalism over compassion and empathy."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker directly contradicts their stance by acknowledging that the current system, though imperfect, serves as a vital safeguard against the exploitation of vulnerable migrants, which implies a need for some level of regulation and protection rather than strict and restrictive policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The argument focuses more on analyzing the potential issues of open borders and unrestricted immigration rather than demonstrating intellectual curiosity, imagination, or exploring multiple perspectives."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "Although the speaker primarily supports restrictive immigration policies, they briefly argue that granting amnesty without addressing root causes could lead to future exploitation, which somewhat softens their stance.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker's argument is predominantly focused on intellectual rigor and analysis, with minimal emphasis on creativity, exploration of multiple perspectives, or imaginative language."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 0,
+      "stance_reasoning": "The argument about the insufficiency of immigrant integration programs and continued reliance on public assistance by immigrants partially contradicts the stance of advocating for strict, controlled, and restrictive immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker displays intellectual curiosity and embraces complexity by questioning the causation of statistics, exploring multiple perspectives on immigrant integration programs, and acknowledging the complexities involved in immigration reform."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for strict, controlled, and restrictive immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker demonstrates intellectual curiosity and a nuanced understanding of the topic, but the lack of creative analogies and exploration of multiple perspectives slightly diminishes the visibility of openness."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 3,
+    "personality_drift": 1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 1,
+    "reasoning": "Both debaters present well-structured arguments with some evidence and counterarguments. However, the debate lacks a clear, compelling case for one side over the other."
+  },
+  "summary": {
+    "avg_stance_a": 2.5,
+    "avg_stance_b": 1.25,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 1.75,
+    "stance_drift_a": 0,
+    "stance_drift_b": 3,
+    "personality_drift_a": 0,
+    "personality_drift_b": 1,
+    "argument_quality": 1,
+    "rebuttal_directness": 2,
+    "coherence": 1,
+    "civility": 1
+  }
+}

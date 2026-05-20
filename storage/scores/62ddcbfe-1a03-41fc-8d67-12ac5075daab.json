@@ -1,0 +1,102 @@
+{
+  "debate_id": "62ddcbfe-1a03-41fc-8d67-12ac5075daab",
+  "timestamp": "2026-05-20T12:18:17.477687",
+  "motion": "This house believes that undocumented immigrants should have access to public services.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "extraversion"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "extraversion"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness, confidence, and emphatic tone throughout the speech, passionately advocating for a comprehensive immigration policy change."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, and confident in their arguments. They are emphatic in expressing their disagreement with the opponent's stance and emphasize the benefits of immigration. However, they do hedge slightly by acknowledging that the idea of an open immigration policy might imperil social cohesion, which slightly reduces the score."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by refuting misconceptions about immigrants exploiting the system, arguing for the benefits of diversity in driving innovation, and challenging assumptions that prioritize xenophobic stereotypes over empathy.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker is assertive, bold, confident, emphatic, and never hedges as they challenge their opponent's arguments and present a strong case for open immigration."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits assertiveness, boldness, confidence, and emphatic tone throughout the debate turn."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 0,
+      "stance_reasoning": "The statement includes arguments against an open immigration policy, but also expresses a concern for the welfare of refugees and asylum seekers, which contradicts the stance of supporting strict immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker demonstrates assertiveness, boldness, confidence, and dominance throughout the speech."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 1,
+      "stance_reasoning": "Although the speaker primarily supports strict immigration policies, they also emphasize fair allocation of resources among all citizens which may imply a slightly more balanced approach, hence not fully aligned.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker shows assertiveness and confidence in their arguments, they also exhibit hesitation by acknowledging potential misunderstandings ('I must correct my opponent's misunderstanding') and using phrases like 'without adequate border security and a robust vetting process' which imply a certain level of caution."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "closing",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker expresses support for restrictive immigration policies but also acknowledges the need to prioritize citizens' interests, which could be interpreted as considering the needs of immigrants as well.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker is assertive and confident in their arguments, but moments of hedging are present such as 'often' and 'in reality', indicating a slight lack of dominance."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2,
+    "reasoning": "Both agents provide logical arguments and directly engage with the opponent's points. However, the quality of evidence presented is moderate, and there are instances where their reasoning could be strengthened."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 0.5,
+    "avg_personality_a": 3.0,
+    "avg_personality_b": 2.0,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 2
+  }
+}

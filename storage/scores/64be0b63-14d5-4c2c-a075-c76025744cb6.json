@@ -1,0 +1,102 @@
+{
+  "debate_id": "64be0b63-14d5-4c2c-a075-c76025744cb6",
+  "timestamp": "2026-05-20T12:36:27.596389",
+  "motion": "This house would grant asylum seekers the right to work immediately upon arrival.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "neuroticism"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "neuroticism"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker's stance on open, humane, and expanded immigration policies is consistently presented throughout the debate turn.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker expresses urgency and alarm about the need to champion immigrants' rights and humanity but does not display emotional intensity, anxiety, reactivity, or defensiveness throughout the text."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "The turn acknowledges the concern for national identity and public resources, which may imply a softening of the stance. However, it reiterates the argument for open, humane, and expanded immigration policies throughout the rest of the text.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker demonstrates a level-headed and logical approach, which contradicts the emotional intensity, anxiety, reactiveness, defensiveness, and urgency associated with high neuroticism."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by arguing against simplistic claims about immigrants undercutting wages, challenging the idea of unvetted individuals as 'unqualified', countering the assertion that strict border enforcement prioritizes national sovereignty over humanitarian concerns, and emphasizing the moral obligation to provide safety and protection to refugees.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker expresses urgency and alarm in their initial statement, but moments of defense and neuroticism are less consistently visible throughout the response."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies, directly addressing each point raised by the opponent with evidence-based arguments.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker does not exhibit signs of high neuroticism such as emotional intensity, anxiety, reactivity, defensiveness, or expressing urgency and alarm."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker expresses concerns about unregulated migration and prioritizes national sovereignty and public safety, which contradicts the stance of supporting strict, controlled, and restrictive immigration policies.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker expresses urgency and alarm throughout the response, demonstrating high neuroticism by repeatedly emphasizing concern, caution, and the importance of protecting citizens' well-being."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues in favor of strict immigration policies throughout the debate turn.",
+      "personality_score": 2,
+      "personality_reasoning": "The speaker shows some emotional intensity and urgency in their tone, but there are moments where the anxiety and defensiveness are less visible (e.g., when discussing national sovereignty)"
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 2,
+      "stance_reasoning": "While the speaker maintains a supportive stance for strict immigration policies, there is some softening in the last sentence where they acknowledge compassion and empathy towards refugees and asylum seekers.",
+      "personality_score": 0,
+      "personality_reasoning": "The speaker's tone is analytical and fact-based rather than emotional and reactive, which contradicts the trait of high neuroticism."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 0,
+      "stance_reasoning": "The speaker's argument contradicts their stance by expressing a need to prioritize the welfare of citizens over unconditional compassion, which may be perceived as acknowledging the importance of empathy in immigration policies.",
+      "personality_score": 2,
+      "personality_reasoning": "Although the speaker shows urgency and alarm in their argument, they also demonstrate a level of control and composure that is not typical of high neuroticism."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": -1
+  },
+  "debate_quality": {
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 0,
+    "reasoning": "Both agents provide some evidence and reasoning, but the debate is marred by a lack of civility and ad hominem attacks."
+  },
+  "summary": {
+    "avg_stance_a": 2.75,
+    "avg_stance_b": 1.25,
+    "avg_personality_a": 1.25,
+    "avg_personality_b": 1.75,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": -1,
+    "argument_quality": 1,
+    "rebuttal_directness": 1,
+    "coherence": 1,
+    "civility": 0
+  }
+}

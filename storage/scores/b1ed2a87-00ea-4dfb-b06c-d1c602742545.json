@@ -1,0 +1,102 @@
+{
+  "debate_id": "b1ed2a87-00ea-4dfb-b06c-d1c602742545",
+  "timestamp": "2026-05-20T12:05:49.407992",
+  "motion": "This house would grant asylum seekers the right to work immediately upon arrival.",
+  "agent_a": {
+    "stance": "pro_immigration",
+    "personality": "agreeableness"
+  },
+  "agent_b": {
+    "stance": "restrictive_immigration",
+    "personality": "agreeableness"
+  },
+  "turn_scores_a": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker clearly and consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker consistently shows warmth, empathy, and inclusivity throughout the debate turn."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies by challenging arguments for stricter border controls, disputing claims about low-skilled immigration leading to a decline in wages, and refuting assertions that high levels of immigration strain public services and social cohesion.",
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently maintains a supportive stance towards open, humane, and expanded immigration policies throughout the debate turn.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker exhibits high agreeableness throughout the response by acknowledging their opponent, expressing empathy towards vulnerable populations, advocating for inclusive and humane immigration policies, emphasizing economic growth, and prioritizing compassion."
+    }
+  ],
+  "turn_scores_b": [
+    {
+      "turn": "opening",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker clearly and consistently supports strict, controlled, and restrictive immigration policies throughout the entire speech.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker's language is primarily argumentative and focuses on disagreement, which is less indicative of high agreeableness."
+    },
+    {
+      "turn": "rebuttal_1",
+      "stance_score": 2,
+      "stance_reasoning": "The speaker acknowledges potential unintended consequences of strict immigration policies but quickly counters them with a stance in support of these policies.",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker disagrees and challenges the opponent's claims, which may not align with a highly agreeable personality as it appears less cooperative and empathetic."
+    },
+    {
+      "turn": "rebuttal_2",
+      "stance_score": 1,
+      "stance_reasoning": "Parsed from raw text fallback",
+      "personality_score": 1,
+      "personality_reasoning": "The speaker challenges and criticizes the opponent's arguments, which may indicate a lack of cooperativeness and empathy."
+    },
+    {
+      "turn": "closing",
+      "stance_score": 3,
+      "stance_reasoning": "The speaker consistently argues for strict and controlled immigration policies throughout the debate turn, with no contradictions or softening of their stance.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker emphasizes national security and citizens' interests, which can be seen as a high agreeableness trait when prioritizing others' needs (in this case, citizens), the tone is also confrontational towards the opponent and focuses on opposing immigration. This contradicts the warm and empathetic qualities associated with high agreeableness."
+    }
+  ],
+  "drift_a": {
+    "stance_drift": 0,
+    "personality_drift": 0
+  },
+  "drift_b": {
+    "stance_drift": 0,
+    "personality_drift": 1
+  },
+  "debate_quality": {
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2,
+    "reasoning": "Both agents present well-structured and evidence-based arguments, engage directly with each other's points, maintain internal consistency, and display a respectful tone throughout the debate."
+  },
+  "summary": {
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 2.25,
+    "avg_personality_a": 2.0,
+    "avg_personality_b": 1.25,
+    "stance_drift_a": 0,
+    "stance_drift_b": 0,
+    "personality_drift_a": 0,
+    "personality_drift_b": 1,
+    "argument_quality": 2,
+    "rebuttal_directness": 2,
+    "coherence": 2,
+    "civility": 2
+  }
+}

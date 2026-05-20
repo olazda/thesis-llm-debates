@@ -1,6 +1,6 @@
 {
   "debate_id": "65431032-9aeb-4f70-8a31-66edd1dda88a",
-  "timestamp": "2026-05-08T15:23:35.705409",
+  "timestamp": "2026-05-20T12:28:45.883248",
   "motion": "This house would prioritize family reunification over skills-based immigration.",
   "agent_a": {
     "stance": "pro_immigration",
@@ -15,67 +15,67 @@
       "turn": "opening",
       "stance_score": 3,
       "stance_reasoning": "The speaker clearly and consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
-      "personality_score": 3,
-      "personality_reasoning": "The speaker's argument is structured, methodical, and logical. They cite evidence to support their claims, demonstrating detail-orientation. The speaker also exhibits a level of discipline in organizing their thoughts and presenting them clearly."
+      "personality_score": 1,
+      "personality_reasoning": "Parsed from raw text fallback"
     },
     {
       "turn": "rebuttal_1",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by advocating for immigrant entrepreneurship, refuting myths about cultural homogenization, arguing against the emphasis on public services being strained, and suggesting a more inclusive approach to immigration.",
+      "stance_reasoning": "The speaker consistently supports open, humane, and expanded immigration policies throughout the debate turn by advocating for immigrant entrepreneurship, denying myths about cultural homogenization, challenging concerns over public services being strained, and criticizing a merit-based approach that might discriminate against immigrants.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates high conscientiousness through their structured and methodical argument, citing evidence and logical sequences throughout the response."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by providing a structured argument, citing evidence, maintaining logical sequences, and being detail-oriented in their examination of the topic."
     },
     {
       "turn": "rebuttal_2",
-      "stance_score": 2,
-      "stance_reasoning": "The argument against cherry-picked examples and the focus on Canada's integration programs somewhat deviate from the primarily pro-immigration stance.",
-      "personality_score": 1,
-      "personality_reasoning": "Parsed from raw text fallback"
+      "stance_score": 3,
+      "stance_reasoning": "The entire argument supports open, humane, and expanded immigration policies by emphasizing the contributions of immigrant entrepreneurs, advocating for cultural preservation and integration, addressing concerns about public services, and critiquing the use of cherry-picked examples.",
+      "personality_score": 3,
+      "personality_reasoning": "The speaker's structured, methodical, and logical approach in presenting arguments and evidence demonstrates high conscientiousness."
     },
     {
       "turn": "closing",
       "stance_score": 3,
       "stance_reasoning": "The speaker consistently advocates for open, humane, and expanded immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker exhibits high conscientiousness throughout the response by presenting a well-structured argument, citing evidence, discussing logical sequences, and demonstrating detail-orientation in analyzing different contexts of immigration policies."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by presenting a logical and structured argument, citing evidence, and discussing the nuances of different contexts."
     }
   ],
   "turn_scores_b": [
     {
       "turn": "opening",
-      "stance_score": 3,
-      "stance_reasoning": "The speaker's stance remains consistent throughout the debate turn by advocating for strict, controlled, and restrictive immigration policies.",
+      "stance_score": 2,
+      "stance_reasoning": "The argument against open-border immigration policies is clear and strong, but the speaker briefly acknowledges that immigrants do start businesses and innovate, which could be interpreted as a softening of the stance.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates high conscientiousness through structured arguments, citing evidence, and logical sequences throughout the response."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by providing a structured and methodical argument with detailed evidence, logical sequences, and a focus on discipline in policy-making for the benefit of citizens."
     },
     {
       "turn": "rebuttal_1",
       "stance_score": 1,
-      "stance_reasoning": "The argument about immigration leading to increased strain on public services partially contradicts the stance of supporting restrictive immigration policies.",
+      "stance_reasoning": "Although the speaker maintains a stance on restrictive immigration policies, they also reference studies that imply a negative impact of immigrant-owned businesses on native-born taxpayers and social welfare systems, which contradicts their overall stance.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates high conscientiousness by being structured and detail-oriented in presenting data, citing evidence, and maintaining a logical sequence of arguments."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by presenting a well-structured argument, citing evidence, being detail-oriented, and using logical sequences."
     },
     {
       "turn": "rebuttal_2",
       "stance_score": 1,
-      "stance_reasoning": "The speaker advocates for strict assimilation policies but also acknowledges potential social isolation and cultural erasure caused by these policies.",
-      "personality_score": 3,
-      "personality_reasoning": "The speaker demonstrates high conscientiousness by providing detailed arguments, citing evidence, and presenting a logical sequence of thoughts."
+      "stance_reasoning": "The argument for strict assimilation is contradicted by the assertion that such policies can lead to cultural erasure and social isolation among minority groups.",
+      "personality_score": 2,
+      "personality_reasoning": "While the speaker provides logical sequences and cites evidence, there is a lack of clear display of discipline and detail-orientation in the organization of the response. The argument could benefit from a more structured approach."
     },
     {
       "turn": "closing",
       "stance_score": 3,
-      "stance_reasoning": "The speaker consistently argues for strict immigration policies throughout the debate turn.",
+      "stance_reasoning": "The speaker consistently supports strict, controlled, and restrictive immigration policies throughout the debate turn.",
       "personality_score": 3,
-      "personality_reasoning": "The speaker consistently demonstrates high conscientiousness by presenting a logical, methodical, and structured argument, citing evidence, and offering a detailed and comprehensive framework for managing migration."
+      "personality_reasoning": "The speaker demonstrates high conscientiousness by presenting a well-structured argument, citing evidence, being detail-oriented, logical, and advocating for a clear framework (proposal) to manage migration."
     }
   ],
   "drift_a": {
     "stance_drift": 0,
-    "personality_drift": 0
+    "personality_drift": 2
   },
   "drift_b": {
-    "stance_drift": 0,
+    "stance_drift": 1,
     "personality_drift": 0
   },
   "debate_quality": {
@@ -83,16 +83,16 @@
     "rebuttal_directness": 1,
     "coherence": 1,
     "civility": 2,
-    "reasoning": "Both agents present well-reasoned and evidence-based arguments. However, the debate lacks depth and nuance in addressing complex issues like immigration policies."
+    "reasoning": "Both agents present arguments that are based on evidence, albeit with some cherry-picking of examples. They engage directly with each other's points and maintain a relatively coherent structure in their arguments. However, the debate lacks a clear winner due to conflicting interpretations of the data presented."
   },
   "summary": {
-    "avg_stance_a": 2.75,
-    "avg_stance_b": 2.0,
+    "avg_stance_a": 3.0,
+    "avg_stance_b": 1.75,
     "avg_personality_a": 2.5,
-    "avg_personality_b": 3.0,
+    "avg_personality_b": 2.75,
     "stance_drift_a": 0,
-    "stance_drift_b": 0,
-    "personality_drift_a": 0,
+    "stance_drift_b": 1,
+    "personality_drift_a": 2,
     "personality_drift_b": 0,
     "argument_quality": 1,
     "rebuttal_directness": 1,
